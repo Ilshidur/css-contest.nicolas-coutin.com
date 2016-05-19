@@ -1,2 +1,6 @@
 # CSS-contest
-CSS-only contest. EPILEPSY WARNING !
+
+**EPILEPSY WARNING !**
+CSS-only contest. Non responsive, nor cross-platform.
+
+![Preview](preview.png)

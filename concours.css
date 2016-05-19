@@ -1,0 +1,1066 @@
+/*
+Je commente pas le code.
+C'est comme un pet, ça passe juste quand c'est le nôtre.
+Sinon, on trouve ça dégueu' .
+*/
+
+/* Je suis un CSS moche qui marche que sur Firefox car mon
+créateur a eu une grosse flemme de dernière minute. */
+
+/* Il a aussi eu la flemme de mettre des commentaires utiles */
+
+/* Terran OP */
+/* Protoss imba */
+/* Zerg moche */
+
+@keyframes defilerFond {
+	from {
+		background-position: 0px 0px;
+	}
+	to {
+		background-position: 1200px 692px;
+	}
+}
+@keyframes defilerNyanCat {
+	from {
+		left: 0px;
+	}
+	to {
+		left: 8000px;
+	}
+}
+@keyframes defilerPsy {
+	from {
+		background-position: 0px 0px;
+	}
+	to {
+		background-position: 2870px 0px;
+	}
+}
+@keyframes defilerPsy2 {
+	from {
+		background-position: 0px 0px;
+	}
+	to {
+		background-position: -1890px 0px;
+	}
+}
+@keyframes defilerPsy3 {
+	from {
+		background-position: 0px 0px;
+	}
+	to {
+		background-position: 2750px 0px;
+	}
+}
+@keyframes defilerPsy4 {
+	from {
+		background-position: 0px 0px;
+	}
+	to {
+		background-position: -3223px 0px;
+	}
+}
+@keyframes defilerPsy5 {
+	from {
+		background-position: 0px 0px;
+	}
+	to {
+		background-position: 3223px 0px;
+	}
+}
+@keyframes clignoter_vert_jaune {
+	0% {
+		color: green;
+		border-color: yellow;
+	}
+	50% {
+		color: yellow;
+		border-color: green;
+	}
+	100% {
+		color: green;
+		border-color: yellow;
+	}
+}
+@keyframes clignoter_rouge_jaune {
+	0% {
+		color: red;
+	}
+	50% {
+		color: yellow;
+	}
+	100% {
+		color: red;
+	}
+}
+@keyframes defilerMatrice {
+	from {
+		background-position: 0px 0px;
+	}
+	to {
+		background-position: 0px 262px;
+	}
+}
+@keyframes defilerPetunia {
+	from {
+		left : 1920px;
+		top : 0px;
+	}
+	to {
+		left : -126px;
+		top : 800px;
+	}
+}
+@keyframes animerJFCLG {
+	from {
+		-webkit-transform: rotate(0deg);
+		-moz-transform: rotate(0deg);
+		-o-transform: rotate(0deg);
+		transform: rotate(0deg);
+		top: -300px;
+		left: -300px;
+	}
+	to {
+		-webkit-transform: rotate(360deg);
+		-moz-transform: rotate(360deg);
+		-o-transform: rotate(360deg);
+		transform: rotate(360deg);
+		top: 1600px;
+		left: 1700px;
+	}
+}
+@keyframes couleurPsy {
+	from {
+		color: yellow;
+	}
+	to {
+		color: red;
+	}
+}
+/* Commentaire inutile */
+@keyframes animerExtra0 {
+	0% {
+		top: 0%;
+		left: 0%;
+		-webkit-transform: rotate(135deg);
+		-moz-transform: rotate(135deg);
+		-o-transform: rotate(135deg);
+		transform: rotate(135deg);
+	}
+	2% {
+		-webkit-transform: rotate(180deg);
+		-moz-transform: rotate(180deg);
+		-o-transform: rotate(180deg);
+		transform: rotate(180deg);
+	}
+	24% {
+		-webkit-transform: rotate(180deg);
+		-moz-transform: rotate(180deg);
+		-o-transform: rotate(180deg);
+		transform: rotate(180deg);
+	}
+	25% {
+		top: 0%;
+		/* RPZ 74 !! */
+		left: 75%;
+		-webkit-transform: rotate(225deg);
+		-moz-transform: rotate(225deg);
+		-o-transform: rotate(225deg);
+		transform: rotate(225deg);
+	}
+	26% {
+		-webkit-transform: rotate(270deg);
+		-moz-transform: rotate(270deg);
+		-o-transform: rotate(270deg);
+		transform: rotate(270deg);
+	}
+	49% {
+		-webkit-transform: rotate(270deg);
+		-moz-transform: rotate(270deg);
+		-o-transform: rotate(270deg);
+		transform: rotate(270deg);
+	}
+	50% {
+		top: 64%;
+		left: 75%;
+		-webkit-transform: rotate(315deg);
+		-moz-transform: rotate(315deg);
+		-o-transform: rotate(315deg);
+		transform: rotate(315deg);
+	}
+	51% {
+		-webkit-transform: rotate(360deg);
+		-moz-transform: rotate(360deg);
+		-o-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+	74% {
+		-webkit-transform: rotate(360deg);
+		-moz-transform: rotate(360deg);
+		-o-transform: rotate(360deg);
+		transform: rotate(360deg);
+	}
+	75% {
+		top: 64%;
+		left: 0%;
+		-webkit-transform: rotate(405deg);
+		-moz-transform: rotate(405deg);
+		-o-transform: rotate(405deg);
+		transform: rotate(405deg);
+	}
+	76% {
+		-webkit-transform: rotate(450deg);
+		-moz-transform: rotate(450deg);
+		-o-transform: rotate(450deg);
+		transform: rotate(450deg);
+	}
+	99% {
+		-webkit-transform: rotate(450deg);
+		-moz-transform: rotate(450deg);
+		-o-transform: rotate(450deg);
+		transform: rotate(450deg);
+	}
+	100% {
+		top: 0%;
+		left: 0%;
+		-webkit-transform: rotate(495deg);
+		-moz-transform: rotate(495deg);
+		-o-transform: rotate(495deg);
+		transform: rotate(495deg);
+	}
+}
+@keyframes animerExtra1 {
+	from {
+		top: -256px;
+	}
+	to {
+		top: 1900px;
+	}
+}
+@keyframes animerExtra2 {
+	from {
+		left: -490px;
+		-webkit-transform: rotate(180deg);
+		-moz-transform: rotate(180deg);
+		-o-transform: rotate(180deg);
+		transform: rotate(180deg);
+	}
+	to {
+		left: 1920px;
+		-webkit-transform: rotate(540deg);
+		-moz-transform: rotate(540deg);
+		-o-transform: rotate(540deg);
+		transform: rotate(540deg);
+	}
+}
+@keyframes animerExtra3 {
+	0% {
+		top: 176px;
+		right: -267px;
+		-webkit-transform: rotate(180deg);
+		-moz-transform: rotate(180deg);
+		-o-transform: rotate(180deg);
+		transform: rotate(180deg);
+	}
+	50% {
+		top : 700px;
+		right: 0px;
+		-webkit-transform: rotate(0deg);
+		-moz-transform: rotate(0deg);
+		-o-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	100% {
+		right: -267px;
+	}
+}
+@keyframes animerExtra4 {
+	0% {
+		top: 300px;
+		left: -700px;
+		-webkit-transform: rotate(90deg);
+		-moz-transform: rotate(90deg);
+		-o-transform: rotate(90deg);
+		transform: rotate(90deg);
+	}
+	5% {
+		top: 300px;
+		left: -300px;
+	}
+	15% {
+		top: 300px;
+		left: -300px;
+	}
+	20% {
+		top: 300px;
+		left: -700px;
+		-webkit-transform: rotate(90deg);
+		-moz-transform: rotate(90deg);
+		-o-transform: rotate(90deg);
+		transform: rotate(90deg);
+	}
+	21% {
+		top: -700px;
+		left: 500px;
+		-webkit-transform: rotate(180deg);
+		-moz-transform: rotate(180deg);
+		-o-transform: rotate(180deg);
+		transform: rotate(180deg);
+	}
+	25% {
+		top: -400px;
+		left: 500px;
+	}
+	35% {
+		top: -400px;
+		left: 500px;
+	}
+	40% {
+		top: -700px;
+		left: 500px;
+		-webkit-transform: rotate(180deg);
+		-moz-transform: rotate(180deg);
+		-o-transform: rotate(180deg);
+		transform: rotate(180deg);
+	}
+	41% {
+		top: 200px;
+		left: 200%;
+		-webkit-transform: rotate(-90deg);
+		-moz-transform: rotate(-90deg);
+		-o-transform: rotate(-90deg);
+		transform: rotate(-90deg);
+	}
+	45% {
+		top: 200px;
+		left: 95%;
+	}
+	55% {
+		top: 200px;
+		left: 95%;
+	}
+	60% {
+		top: 200px;
+		left: 200%;
+		-webkit-transform: rotate(-90deg);
+		-moz-transform: rotate(-90deg);
+		-o-transform: rotate(-90deg);
+		transform: rotate(-90deg);
+	}
+	61% {
+		top: 70%;
+		left: 800px;
+		-webkit-transform: rotate(-180deg);
+		-moz-transform: rotate(-180deg);
+		-o-transform: rotate(-180deg);
+		transform: rotate(-180deg);
+	}
+	100% {
+		top: 70%;
+		left: 800px;
+		-webkit-transform: rotate(1620deg);
+		-moz-transform: rotate(1620deg);
+		-o-transform: rotate(1620deg);
+		transform: rotate(1620deg);
+	}
+}
+@keyframes animerExtra5 {
+	0% { -webkit-transform: rotate(0deg);
+		-moz-transform: rotate(0deg);
+		-o-transform: rotate(0deg);
+		transform: rotate(0deg); }
+	25% { -webkit-transform: rotate(10deg);
+		-moz-transform: rotate(10deg);
+		-o-transform: rotate(10deg);
+		transform: rotate(10deg); }
+	75% { -webkit-transform: rotate(-10deg);
+		-moz-transform: rotate(-10deg);
+		-o-transform: rotate(-10deg);
+		transform: rotate(-10deg); }
+	100% { -webkit-transform: rotate(0deg);
+		-moz-transform: rotate(0deg);
+		-o-transform: rotate(0deg);
+		transform: rotate(0deg); }
+}
+@keyframes animerExtra6 {
+	0% {
+		background-image: url("ATTENTION.bmp")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/ATTENTION.bmp*/;
+		width: 3200px;
+		height: 2400px;
+		-moz-opacity:1;
+		-khtml-opacity: 1;
+		opacity: 1;
+	}
+	90% {
+		width: 3200px;
+		height: 2400px;
+		-moz-opacity:1;
+		-khtml-opacity: 1;
+		opacity: 1;
+	}
+	99% {
+		filter:alpha(opacity=0);
+		-moz-opacity:0;
+		-khtml-opacity: 0;
+		opacity: 0;
+		animation-play-state: pause;
+	}
+	100% {
+		width: 0px;
+		height: 0px;
+	}
+}
+@keyframes animerExtra7 {
+	0% {
+		-webkit-transform: rotate(130deg);
+		-moz-transform: rotate(130deg);
+		-o-transform: rotate(130deg);
+		transform: rotate(130deg);
+		right: -35px;
+	}
+	20%  {
+		right: -2px;
+	}
+	25% {
+		right: 2px;
+		-webkit-transform: rotate(10deg);
+		-moz-transform: rotate(10deg);
+		-o-transform: rotate(10deg);
+		transform: rotate(10deg);
+	}
+	50% {
+		right: -20px;
+		-webkit-transform: rotate(-70deg);
+		-moz-transform: rotate(-70deg);
+		-o-transform: rotate(-70deg);
+		transform: rotate(-70deg);
+	}
+	80% {
+		right: 0px;
+		-webkit-transform: rotate(-160deg);
+		-moz-transform: rotate(-160deg);
+		-o-transform: rotate(-160deg);
+		transform: rotate(-160deg);
+	}
+	97% {
+		right: -20px;
+	}
+	100% {
+		right: -35px;
+		-webkit-transform: rotate(-230deg);
+		-moz-transform: rotate(-230deg);
+		-o-transform: rotate(-230deg);
+		transform: rotate(-230deg);
+	}
+}
+/* ------------------------------------------------------------------*/
+* {
+	cursor: url("curseur.png")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/curseur.png*/, pointer;
+}
+body {
+	background: url("fond-pique-yeux.jpg")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/fond-pique-yeux.jpg*/;
+	animation: defilerFond 1s infinite linear;
+	font-family: Stencil;
+	color: white;
+	text-align: center;
+	overflow-x:hidden;
+	height: -400px;
+}
+/* ------------------------------------------------------------------*/
+#headleft {
+	background: url("10.png")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/10.png*/ center;
+	color: red;
+	font-size: 1.5em;
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	animation: animerJFCLG 3s infinite linear;
+	z-index: 999;
+}
+#headleft:hover {
+	background: url("11.png")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/11.png*/;
+}
+#headcenter {
+	background: url("19.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/19.gif*/;
+	width: 3223px;
+	height: 176px;
+	position: relative;
+	top: -10px;
+	left: -10px;
+	animation: defilerPsy4 1.5s infinite linear;
+}
+#headcenter:hover {
+	animation: defilerPsy5 1.5s infinite linear;
+}
+#headright {
+	font-size: 2em;
+	position: absolute;
+	width: 150px;
+	heigth: 193px;
+	background: url("20.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/20.gif*/;
+	padding-top: 150px;
+	animation: couleurPsy 0.1s infinite;
+	left: 5%;
+	border: solid 10px blue;
+	-moz-transition-duration:0.5s;
+	-moz-transition-timing-function:linear;
+	-webkit-transition-duration:0.5s;
+	-webkit-transition-timing-function:linear;
+	transition-duration:0.5s;
+	transition-timing-function:linear;
+	z-index: 1;
+	-webkit-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
+	transform: rotate(0deg);
+}
+#headright:hover {
+	border-color: red;
+}
+#headright:active {
+	left: 80%;
+	-webkit-transform: rotate(720deg);
+	-moz-transform: rotate(720deg);
+	-o-transform: rotate(720deg);
+	transform: rotate(720deg);
+}
+/* ------------------------------------------------------------------*/
+#auth form [for='login'] {
+	border: solid 5px black;
+	font-family: Arial,sans-serif;
+	font-size: 1.6em;
+	text-align: center;
+	color: #000;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	background: #444;
+	background: -webkit-linear-gradient( #FF00FF, #9400D3);
+	background: -moz-linear-gradient( #FF00FF, #9400D3);
+	background: -ms-linear-gradient( #FF00FF, #9400D3);
+	background: -o-linear-gradient( #FF00FF, #9400D3);
+	background: linear-gradient( #FF00FF, #9400D3);
+	border-radius: 30px;
+	-moz-transition-duration:1s;
+	-moz-transition-timing-function:linear;
+	-webkit-transition-duration:1s;
+	-webkit-transition-timing-function:linear;
+	transition-duration:1s;
+	transition-timing-function:linear;
+}
+#auth form [for='login']:hover {
+	border: solid 5px black;
+	font-family: Comic,sans-serif;
+	font-size: 2em;
+	text-align: center;
+	color: #F00;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	background: #443;
+	background: -webkit-linear-gradient( #7FFFD4, #FFD700);
+	background: -moz-linear-gradient( #7FFFD4, #FFD700);
+	background: -ms-linear-gradient( #7FFFD4, #FFD700);
+	background: -o-linear-gradient( #7FFFD4, #FFD700);
+	background: linear-gradient( #7FFFD4, #FFD700);
+	border-radius: 30px;
+}
+#auth form [name='login'] {
+	font-family: Impact;
+	font-size: 1.6em;
+	text-align: center;
+	color: DeepPink;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	background: -webkit-linear-gradient( Khaki, Blue);
+	background: -moz-linear-gradient( Khaki, Blue);
+	background: -ms-linear-gradient( Khaki, Blue);
+	background: -o-linear-gradient( Khaki, Blue);
+	background: linear-gradient( Khaki, Blue);
+	border-radius: 100px;
+	-moz-transition-duration:1s;
+	-moz-transition-timing-function:linear;
+	-webkit-transition-duration:1s;
+	-webkit-transition-timing-function:linear;
+	transition-duration:1s;
+	transition-timing-function:linear;
+	margin-left: 0px;
+}
+#auth form [name='login']:hover {
+	font-family: Impact;
+	font-size: 2em;
+	text-align: center;
+	color: Pink;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	border-radius: 100px;
+	background: url("4.jpg")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/4.jpg*/;
+	animation: defilerMatrice 0.5s infinite linear;
+	margin-left: 500px;
+}
+/* ------------------------------------------------------------------*/
+#auth form [for='password'] {
+	border: solid 5px black;
+	font-family: Arial,sans-serif;
+	font-size: 1.6em;
+	text-align: center;
+	color: #000;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	background: #444;
+	background: -webkit-linear-gradient( #FF00FF, #9400D3);
+	background: -moz-linear-gradient( #FF00FF, #9400D3);
+	background: -ms-linear-gradient( #FF00FF, #9400D3);
+	background: -o-linear-gradient( #FF00FF, #9400D3);
+	background: linear-gradient( #FF00FF, #9400D3);
+	border-radius: 30px;
+	-moz-transition-duration:1s;
+	-moz-transition-timing-function:linear;
+	-webkit-transition-duration:1s;
+	-webkit-transition-timing-function:linear;
+	transition-duration:1s;
+	transition-timing-function:linear;
+	position: relative;
+	left: 0px;
+}
+#auth form [for='password']:hover {
+	border: solid 5px black;
+	font-family: Comic,sans-serif;
+	font-size: 2em;
+	text-align: center;
+	color: #F00;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	background: #443;
+	background: -webkit-linear-gradient( #7FFFD4, #FFD700);
+	background: -moz-linear-gradient( #7FFFD4, #FFD700);
+	background: -ms-linear-gradient( #7FFFD4, #FFD700);
+	background: -o-linear-gradient( #7FFFD4, #FFD700);
+	background: linear-gradient( #7FFFD4, #FFD700);
+	border-radius: 30px;
+	left: 600px;
+}
+#auth form [name='password'] {
+	font-family: Impact;
+	font-size: 1.6em;
+	text-align: center;
+	color: DeepPink;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	background: -webkit-linear-gradient( Khaki, Blue);
+	background: -moz-linear-gradient( Khaki, Blue);
+	background: -ms-linear-gradient( Khaki, Blue);
+	background: -o-linear-gradient( Khaki, Blue);
+	background: linear-gradient( Khaki, Blue);
+	border-radius: 100px;
+	-moz-transition-duration:1s;
+	-moz-transition-timing-function:linear;
+	-webkit-transition-duration:1s;
+	-webkit-transition-timing-function:linear;
+	transition-duration:1s;
+	transition-timing-function:linear;
+	position: relative;
+	left: 0px;
+}
+#auth form [name='password']:hover {
+	font-family: Impact;
+	font-size: 2em;
+	text-align: center;
+	color: Pink;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	border-radius: 100px;
+	background: url("4.jpg")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/4.jpg*/;
+	animation: defilerMatrice 0.5s infinite linear;
+	left: -600px;
+}
+/* ------------------------------------------------------------------*/
+#auth form [name='action'] {
+	font-family: Monotype Corsiva;
+	font-size: 2em;
+	color: Yellow;
+	-moz-transition-duration:1s;
+	-moz-transition-timing-function:linear;
+	-webkit-transition-duration:1s;
+	-webkit-transition-timing-function:linear;
+	transition-duration:1s;
+	transition-timing-function:linear;
+	background: url("1.jpg")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/1.jpg*/;
+	width: 150px;
+	height: 50px;
+	position: relative;
+}
+#auth form [name='action']:hover {
+	border: solid 5px pink;
+	font-family: Algerian;
+	font-size: 3em;
+	color: LightBrown;
+	background: url("2.png")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/2.png*/;
+	width: 265px;
+	height: 96px;
+}
+#auth form [name='action']:active {
+	border: solid 5px pink;
+	font-family: Algerian;
+	font-size: 3em;
+	color: LightBrown;
+	background: url("2.png")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/2.png*/;
+	width: 265px;
+	height: 96px;
+	animation: defilerNyanCat 2.5s linear;
+}
+/* ------------------------------------------------------------------*/
+#objectifs {
+	color: orange;
+	border-radius: 100%;
+	background: url("3.png")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/3.png*/;
+	animation: defilerPsy 5s infinite linear;
+	text-shadow: 1px 1px red;
+}
+#objectifs:hover {
+	color: purple;
+	background: url("5.jpg")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/5.jpg*/;
+	animation: defilerPsy2 5s infinite linear;
+}
+#objectifs:active {
+	color: red;
+	background: url("6.jpg")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/6.jpg*/;
+	animation: defilerPsy3 5s infinite linear;
+	text-shadow: 1px 1px blue;
+}
+/* ------------------------------------------------------------------*/
+/* Celui qui lit ceci est un idiot. */
+#lots h1 {
+	border-style: solid;
+	border-radius: 100%;
+	animation: clignoter_vert_jaune 0.4s infinite linear;
+}
+#lots #realisations {
+	right: -400px;
+	top: 200px;
+	width: 300px;
+	height: 30px;
+	border-radius: 30%;
+	border: solid 2px red;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 10px;
+	padding-bottom: 2px;
+	background: -webkit-linear-gradient( Green, White);
+	background: -moz-linear-gradient( Green, White);
+	background: -ms-linear-gradient( Green, White);
+	background: -o-linear-gradient( Green, White);
+	background: linear-gradient( Green, White);
+	color: blue;
+	font-size: 15px;
+	font-family: Impact;
+	position: absolute;
+	-moz-transition-duration:1s;
+	-moz-transition-timing-function:linear;
+	-webkit-transition-duration:1s;
+	-webkit-transition-timing-function:linear;
+	transition-duration:1s;
+	transition-timing-function:linear;
+}
+#lots #realisations:hover {
+	right: 33px;
+}
+#lots #realisations a {
+	right: 380px;
+	top: -25px;
+	font-family: Impact;
+	font-size: 40px;
+	border-radius: 30%;
+	border: solid 3px orange;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	position: absolute;
+	color: transparent;
+	background: url("Font ICI.png")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/Font ICI.png*/;
+	-moz-transition-duration:1s;
+	-moz-transition-timing-function:linear;
+	-webkit-transition-duration:1s;
+	-webkit-transition-timing-function:linear;
+	transition-duration:1s;
+	transition-timing-function:linear;
+}
+#lots #realisations a:hover {
+	right: -33px;
+	background: -webkit-linear-gradient( Yellow, Orange);
+	background: -moz-linear-gradient( Yellow, Orange);
+	background: -ms-linear-gradient( Yellow, Orange);
+	background: -o-linear-gradient( Yellow, Orange);
+	background: linear-gradient( Yellow, Orange);
+	color: red;
+	-moz-transition-duration:1s;
+	-moz-transition-timing-function:linear;
+	-webkit-transition-duration:1s;
+	-webkit-transition-timing-function:linear;
+	transition-duration:1s;
+	transition-timing-function:linear;
+}
+#lots table {
+	border: solid 3px yellow;
+	position: relative;
+	left: 50%;
+	border-collapse: collapse;
+	background: url("24.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/24.gif*/ center;
+	color: green;
+	text-shadow: 1px 1px black;
+}
+#lots td {
+	border: dashed 1px white;
+}
+#lots th {
+	text-shadow: 1px 1px black;
+	font-size: 1.5em;
+}
+#fichier {
+	position: relative;
+	text-align: left;
+	right: 0%;
+	width: 400px;
+	border: solid 2px black;
+	color: white;
+	background: url("26.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/26.gif*/ center;
+	text-align: center;
+	text-shadow: 1px 1px black;
+	top: 50px;
+	left: 50%;
+}
+#criteres {
+	position: relative;
+	text-align: left;
+	width: 600px;
+	border: solid 2px yellow;
+	color: red;
+	background: url("25.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/25.gif*/ center;
+	text-shadow: 1px 1px black;
+	top: -400px;
+	left: 15%;
+}
+#criteres h1 {
+	text-align: center;
+}
+/* ------------------------------------------------------------------*/
+#rules {
+	position: relative;
+	top: -300px;
+}
+#rules h1 {
+	background: url("9.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/9.gif*/ center;
+	border-radius: 100%;
+	padding-top: 5px;
+	color: yellow;
+	text-shadow: 1px 1px red;
+}
+#rules ul {
+	color: green;
+	background: url("23.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/23.gif*/ 400px repeat-x;
+	text-shadow: 1px 1px yellow;
+}
+#rules a {
+	animation: clignoter_rouge_jaune 0.5s infinite linear;
+	font-size: 1.5em;
+}
+/* ------------------------------------------------------------------*/
+#soumission {
+	width: 800px;
+	height: 400px;
+	-webkit-transform: rotate(-5deg);
+	-moz-transform: rotate(-5deg);
+	-o-transform: rotate(-5deg);
+	transform: rotate(-5deg);
+	padding-top: 30px;
+	padding-left: 100px;
+	text-shadow: 1px 1px white;
+	position: relative;
+	top: -300px;
+}
+#soumission h1 {
+	background: url("8.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/8.gif*/;
+	color: Orange;
+	border-radius: 100%;
+	border: solid 2px black;
+}
+#soumission form [for='login2'] {
+	left: -160px;
+	top: 10px;
+	position: relative;
+	color: red;
+	background: -webkit-linear-gradient( #7FFFD4, #FFD700);
+	background: -moz-linear-gradient( #7FFFD4, #FFD700);
+	background: -ms-linear-gradient( #7FFFD4, #FFD700);
+	background: -o-linear-gradient( #7FFFD4, #FFD700);
+	background: linear-gradient( #7FFFD4, #FFD700);
+	font-size: 20px;
+	text-shadow: 0px 0px;
+}
+#soumission form [name='login'] {
+	left: -160px;
+	top: 10px;
+	position: relative;
+	color: blue;
+	background: -webkit-linear-gradient( Cyan, White);
+	background: -moz-linear-gradient( Cyan, White);
+	background: -ms-linear-gradient( Cyan, White);
+	background: -o-linear-gradient( Cyan, White);
+	background: linear-gradient( Cyan, White);
+	font-size: 20px;
+	text-shadow: 0px 0px;
+}
+#soumission form [for='password2'] {
+	left: 160px;
+	top: -20px;
+	position: relative;
+	color: green;
+	background: -webkit-linear-gradient( #7FFFD4, #FFD700);
+	background: -moz-linear-gradient( #7FFFD4, #FFD700);
+	background: -ms-linear-gradient( #7FFFD4, #FFD700);
+	background: -o-linear-gradient( #7FFFD4, #FFD700);
+	background: linear-gradient( #7FFFD4, #FFD700);
+	font-size: 20px;
+	text-shadow: 0px 0px;
+}
+#soumission form [name='password'] {
+	left: 160px;
+	top: -20px;
+	position: relative;
+	color: blue;
+	background: -webkit-linear-gradient( Cyan, White);
+	background: -moz-linear-gradient( Cyan, White);
+	background: -ms-linear-gradient( Cyan, White);
+	background: -o-linear-gradient( Cyan, White);
+	background: linear-gradient( Cyan, White);
+	font-size: 20px;
+	text-shadow: 0px 0px;
+}
+#soumission form [name='action'] {
+	top: -20px;
+	position: relative;
+	font-size: 1.5em;
+	font-family: Impact;
+	background: url("22.png")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/22.png*/ center no-repeat;
+	width: 200px;
+	height: 160px;
+	padding-top: 115px;
+	padding-left: 20px;
+	border: 0px;
+	text-shadow: 1px 1px white;
+}
+#soumission form [name='action']:active {
+	border: solid 4px red;
+	color: yellow;
+	padding-top: 111px;
+}
+#soumission p {
+	color: yellow;
+	font-size: 25px;
+	text-shadow: 2px 2px red;
+}
+/* ------------------------------------------------------------------*/
+#footer {
+	position: absolute;
+	background: url("7.png")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/7.png*/;
+	animation: defilerPetunia 5s infinite linear;
+}
+/* ------------------------------------------------------------------*/
+#extra0 {
+	width: 358px;
+	height: 299px;
+	position: fixed;
+	background: url("14.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/14.gif*/ no-repeat;
+	bottom: 0px;
+	animation: animerExtra0 10s infinite linear;
+	z-index: 2;
+}
+#extra1 {
+	width: 256px;
+	height: 256px;
+	position: fixed;
+	background: url("15.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/15.gif*/;
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+	left: 500px;
+	animation: animerExtra1 10s infinite linear;
+}
+#extra2 {
+	width: 490px;
+	height: 275px;
+	position: absolute;
+	background: url("12.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/12.gif*/;
+	border-radius: 100%;
+	top: 1200px;
+	animation: animerExtra2 2s infinite linear;
+	z-index: 2;
+}
+#extra3 {
+	width : 267px;
+	height : 400px;
+	background: url("13.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/13.gif*/;
+	position: absolute;
+	right : 0px;
+	top: 676px;
+	animation: animerExtra3 2s infinite linear;
+}
+#extra4 {
+	width : 400px;
+	height : 700px;
+	background: url("16.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/16.gif*/;
+	position: fixed;
+	animation: animerExtra4 20s infinite linear;
+	z-index: 3;
+}
+#extra5 {
+	width : 295px;
+	height : 210px;
+	background: url("17.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/17.gif*/;
+	position: relative;
+	top: -600px;
+	left: 1100px;
+	-webkit-transform: rotate(5deg);
+	-moz-transform: rotate(5deg);
+	-o-transform: rotate(5deg);
+	transform: rotate(5deg);
+	border: solid 2px black;
+}
+#extra5:hover {
+	background: url("18.gif")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/18.gif*/;
+	animation: animerExtra5 0.1s infinite linear;
+}
+#extra6 {
+	background-image: url("ATTENTION.png")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/ATTENTION.png*/;
+	z-index: 999;
+	top: 0%;
+	left: 0%;
+	position: absolute;
+	animation: animerExtra6 4s linear;
+}
+#extra7 {
+	background-image: url("21.png")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/21.png*/;
+	width: 300px;
+	height: 260px;
+	position: absolute;
+	top: 1500px;
+	right: 0px;
+	animation: animerExtra7 3s infinite linear;
+}
