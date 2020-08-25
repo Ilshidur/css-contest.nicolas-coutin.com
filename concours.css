@@ -1,11 +1,11 @@
 /*
 Je commente pas le code.
-C'est comme un pet, ça passe juste quand c'est le nôtre.
-Sinon, on trouve ça dégueu' .
+C'est comme un pet, Ã§a passe juste quand c'est le nÃ´tre.
+Sinon, on trouve Ã§a dÃ©gueu' .
 */
 
 /* Je suis un CSS moche qui marche que sur Firefox car mon
-créateur a eu une grosse flemme de dernière minute. */
+crÃ©ateur a eu une grosse flemme de derniÃ¨re minute. */
 
 /* Il a aussi eu la flemme de mettre des commentaires utiles */
 
@@ -385,7 +385,7 @@ créateur a eu une grosse flemme de dernière minute. */
 }
 @keyframes animerExtra6 {
 	0% {
-		background-image: url("ATTENTION.bmp")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/ATTENTION.bmp*/;
+		background-image: url("ATTENTION.png")/*tpa=http://luc-damas.fr/concours-css/realisations/taf/coutinn/css/ATTENTION.png*/;
 		width: 3200px;
 		height: 2400px;
 		-moz-opacity:1;
